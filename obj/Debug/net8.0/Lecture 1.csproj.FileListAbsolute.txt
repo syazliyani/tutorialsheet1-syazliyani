@@ -1,0 +1,28 @@
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.AssemblyInfoInputs.cache
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.AssemblyInfo.cs
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.csproj.CoreCompileInputs.cache
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\bin\Debug\net8.0\Lecture 1.exe
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\bin\Debug\net8.0\Lecture 1.deps.json
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\bin\Debug\net8.0\Lecture 1.runtimeconfig.json
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\bin\Debug\net8.0\Lecture 1.dll
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\bin\Debug\net8.0\Lecture 1.pdb
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.dll
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\refint\Lecture 1.dll
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.pdb
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\Lecture 1.genruntimeconfig.cache
+c:\Users\User\Downloads\app-dev-csharp-main\app-dev-csharp-main\Lecture 1\obj\Debug\net8.0\ref\Lecture 1.dll
+c:\Users\User\Imagine AI\Education\Lecture 1\bin\Debug\net8.0\Lecture 1.exe
+c:\Users\User\Imagine AI\Education\Lecture 1\bin\Debug\net8.0\Lecture 1.deps.json
+c:\Users\User\Imagine AI\Education\Lecture 1\bin\Debug\net8.0\Lecture 1.runtimeconfig.json
+c:\Users\User\Imagine AI\Education\Lecture 1\bin\Debug\net8.0\Lecture 1.dll
+c:\Users\User\Imagine AI\Education\Lecture 1\bin\Debug\net8.0\Lecture 1.pdb
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.AssemblyInfoInputs.cache
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.AssemblyInfo.cs
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.csproj.CoreCompileInputs.cache
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.dll
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\refint\Lecture 1.dll
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.pdb
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\Lecture 1.genruntimeconfig.cache
+c:\Users\User\Imagine AI\Education\Lecture 1\obj\Debug\net8.0\ref\Lecture 1.dll
